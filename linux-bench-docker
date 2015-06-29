@@ -1,5 +1,7 @@
 FROM    ubuntu
 MAINTAINER Patrick Kennedy <patrick@servethehome.com>
+#Copyright 2015
+#Version 1.00
 
 # Turn off intaractive mode to reduce noise and errors
 ENV	DEBIAN_FRONTEND noninteractive
